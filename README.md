@@ -9,7 +9,7 @@ I am a passionate **Junior Software Developer** with a strong foundation in **Ja
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m currently learning **Advanced Spring Boot and Cloud Technologies**
 - 💬 Ask me about **Java, Spring Boot, MySQL, WSO2EI**
-- 📫 How to reach me: [irfan.abdulsalam.dev@gmail.com](mailto:irfan.abdulsalam.dev@gmail.com)
+- 📫 How to reach me: [bharani240296@gmail.com](mailto:bharani240296@gmail.com)
 - ⚡ Fun fact: I love solving puzzles, developing games, and reading tech blogs
 - 🕹️ I am interested in **developing games** and learning about **new technologies**
 
